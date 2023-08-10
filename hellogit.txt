@@ -1,1 +1,1 @@
-Inicio de control de versiones git.
+print("Hello git")

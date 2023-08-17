@@ -1,1 +1,1 @@
-Hola git con prueba 2
+Print("Hello word version 2")

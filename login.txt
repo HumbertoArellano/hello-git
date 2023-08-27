@@ -1,1 +1,1 @@
-System.out.println("Login version 2 actualizado java print");
+System.out.println("Login version 2 actualizado");
